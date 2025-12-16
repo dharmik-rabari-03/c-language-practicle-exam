@@ -4,6 +4,7 @@ This repository contains basic C language programs prepared for a practical exam
 All programs are written in a simple and easy-to-understand manner.
 
 ## List of Programs
+
 Q1 – Factorial.c
 
 Program to calculate the factorial of a given number.
@@ -15,6 +16,9 @@ Factorial of 5 = 120
 output img :
 
 <img width="500" height="400" alt="Screenshot 2025-12-16 093213" src="https://github.com/user-attachments/assets/3464b40c-d9fa-4b27-b478-15c50cce9e14" />
+
+
+
 
 
 Q2 – VowelCount.c
@@ -30,6 +34,9 @@ output img :
 <img width="500" height="400" alt="Screenshot 2025-12-16 093341" src="https://github.com/user-attachments/assets/e478bc7f-73e3-4190-b16f-59faf0124784" />
 
 
+
+
+
 Q3 – LeapYear.c
 
 Program to check whether a given year is a leap year or not.
@@ -41,6 +48,9 @@ Enter a year: 2024
 output img :
 
 <img width="500" height="400"  alt="Screenshot 2025-12-16 093433" src="https://github.com/user-attachments/assets/a82901d3-0f3a-4fa8-a932-09fa72c19268" />
+
+
+
 
 
 Q4 – SwapusingPointer.c
@@ -59,17 +69,12 @@ output img :
 <img width="500" height="400"  alt="Screenshot 2025-12-16 093530" src="https://github.com/user-attachments/assets/0c5666e9-912b-4e58-b59f-a70451dffe50" />
 
 
+
+
+
 Q5 – PatternPrinting.c
 
 Program to print patterns using loops.
-
-Output Example:
-
-    *
-   **
-  ***
- ****
-*****
 
 output img :
 
