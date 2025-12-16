@@ -14,7 +14,7 @@ Factorial of 5 = 120
 
 output img :
 
-<img width="700" height="600" alt="Screenshot 2025-12-16 093213" src="https://github.com/user-attachments/assets/3464b40c-d9fa-4b27-b478-15c50cce9e14" />
+<img width="700" height="300" alt="Screenshot 2025-12-16 093213" src="https://github.com/user-attachments/assets/3464b40c-d9fa-4b27-b478-15c50cce9e14" />
 
 
 Q2 – VowelCount.c
@@ -27,7 +27,7 @@ Number of vowels = 3
 
 output img :
 
-<img width="700" height="600" alt="Screenshot 2025-12-16 093341" src="https://github.com/user-attachments/assets/e478bc7f-73e3-4190-b16f-59faf0124784" />
+<img width="700" height="300" alt="Screenshot 2025-12-16 093341" src="https://github.com/user-attachments/assets/e478bc7f-73e3-4190-b16f-59faf0124784" />
 
 
 Q3 – LeapYear.c
@@ -39,7 +39,7 @@ Enter a year: 2024
 2024 is a Leap Year
 
 output img :
-<img width="700" height="600" alt="Screenshot 2025-12-16 093433" src="https://github.com/user-attachments/assets/a82901d3-0f3a-4fa8-a932-09fa72c19268" />
+<img width="700" height="300" alt="Screenshot 2025-12-16 093433" src="https://github.com/user-attachments/assets/a82901d3-0f3a-4fa8-a932-09fa72c19268" />
 
 
 Q4 – SwapusingPointer.c
